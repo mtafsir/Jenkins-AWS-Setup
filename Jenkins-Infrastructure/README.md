@@ -1,3 +1,3 @@
-# Jenkins AWS Cloudformation Setup
+# Jenkins AWS ECS Cloudformation Setup
 
 (TBC)
